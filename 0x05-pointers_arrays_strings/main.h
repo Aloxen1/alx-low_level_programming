@@ -20,4 +20,3 @@ void print_array(int *a, int n);
 char *_strcpy(char *dest, char *src);
 
 #endif
->>>>>>> bcdb3a5e294c73675ffbf036b7ac93b4858d4f7f
